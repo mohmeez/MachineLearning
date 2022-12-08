@@ -1,4 +1,8 @@
-Customer Segmentation
+Customer Segmentation  
+
+Note: This is the preliminary assessment on the data provided. A new and improved model with better accuray scores will be posted before December 11, 2022!
+
+
 
 Context
 
