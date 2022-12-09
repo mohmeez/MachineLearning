@@ -1,9 +1,5 @@
 Customer Segmentation  
 
-Note: This is the preliminary assessment on the data provided. A new and improved model with better accuray scores will be posted before December 11, 2022!
-
-
-
 Context
 
 An automobile company has plans to enter new markets with its existing products (P1, P2, P3, P4, and P5). After intensive market research, they’ve deduced that the behavior of the new market is similar to their existing market.
