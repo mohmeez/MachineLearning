@@ -4,11 +4,11 @@ Context
 
 Research problem includes an automobile company that is trying to classify new prospective customers into the four categories namely A, B, C and D. The company has already classified its existing customers with 8068 unique IDs into these four categories and wishes to do the same for the prospective customers. Our job is to use the current customer base and their classification to build and train different machine learning algorithms and predict the target class for the new prospective customers.
 
-
 Accurately segmenting customers based on common characteristics allows a company to focus on creating products that are more relevant to and serve the needs of each group. It allows a company to focus on groups of similar customers rather than on individual customers.  It enables a company to allocate its marketing and advertising resources efficiently. In the long run, businesses that use machine learning models 
 
 
 You are required to help the manager to predict the right group of new customers by using the labelled training data to predict the target class for unseen data.
 
+Performance metric is accuracy score ---> accuracy score should be greater than 50% 
 
 
