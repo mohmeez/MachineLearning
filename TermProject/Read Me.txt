@@ -2,13 +2,13 @@ Customer Segmentation
 
 Context
 
-An automobile company has plans to enter new markets with its existing products (P1, P2, P3, P4, and P5). After intensive market research, they’ve deduced that the behavior of the new market is similar to their existing market.
+Research problem includes an automobile company that is trying to classify new prospective customers into the four categories namely A, B, C and D. The company has already classified its existing customers with 8068 unique IDs into these four categories and wishes to do the same for the prospective customers. Our job is to use the current customer base and their classification to build and train different machine learning algorithms and predict the target class for the new prospective customers.
 
-In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for different segments of customers. This strategy has worked exceptionally well for them. They plan to use the same strategy on new markets and have identified 2627 new potential customers.
 
-You are required to help the manager to predict the right group of new customers.
+Accurately segmenting customers based on common characteristics allows a company to focus on creating products that are more relevant to and serve the needs of each group. It allows a company to focus on groups of similar customers rather than on individual customers.  It enables a company to allocate its marketing and advertising resources efficiently. In the long run, businesses that use machine learning models 
 
-Dataset has been adapted from a hackathon organized by Analytics Vidhya
 
-https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#ProblemStatement
+You are required to help the manager to predict the right group of new customers by using the labelled training data to predict the target class for unseen data.
+
+
 
